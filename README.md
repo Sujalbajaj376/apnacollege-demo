@@ -1,3 +1,3 @@
 # apnacollege-demo
 
-Author- Sujal BAjaj
+Author- Sujal Bajaj
